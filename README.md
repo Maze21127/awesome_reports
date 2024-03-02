@@ -1,5 +1,5 @@
 # Awesome Reports
-IT-доклады, которые мне понравились.
+IT-доклады или видео, которые мне понравились.
 
 # Python
 ## Pytest
@@ -12,6 +12,9 @@ IT-доклады, которые мне понравились.
 
 # Templates
  - [Copier. Шаблонизация Python-проектов](https://www.youtube.com/watch?v=YS3ahO0fgoo)
+
+# Servers Adm.
+- [Защита SSH-сервера — порты, ключи, port knocking, iptables](https://www.youtube.com/watch?v=5TCvRlD1sSw)
 
 # Other
 - [Атомарный рефакторинг в IntelliJ IDEA: прогибаем IDE под себя](https://www.youtube.com/watch?v=C5eD-K8AO3o)
