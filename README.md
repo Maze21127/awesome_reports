@@ -2,10 +2,11 @@
 IT-доклады или видео, которые мне понравились.
 
 # Python
+- [Кэш в асинхронных Python приложениях](https://habr.com/ru/articles/597527/)
 ## Pytest
 - [Pytest Plugins: Как расширить функционал тестового фреймворка через плагины](https://www.youtube.com/watch?v=p3XUv8C8FKo)
 - [Понятные тесты Никиты Соболева](https://www.youtube.com/watch?v=AcKynhL8I5o)
-- [Кэш в асинхронных Python приложениях](https://habr.com/ru/articles/597527/)
+
 
 # Services &  Utils
 ## Feature Flag
