@@ -18,8 +18,9 @@ IT-доклады или видео, которые мне понравилис�
 # Servers Adm.
 - [Защита SSH-сервера — порты, ключи, port knocking, iptables](https://www.youtube.com/watch?v=5TCvRlD1sSw)
 
-# Other
+# PyCharm
 - [Атомарный рефакторинг в IntelliJ IDEA: прогибаем IDE под себя](https://www.youtube.com/watch?v=C5eD-K8AO3o)
+- [PyCharm Debugger](https://www.youtube.com/watch?v=c7jKxMRBdE8)
 
 # Team Lead
 - [Главное, что должен уметь тимлид, — это писать код](https://youtu.be/Qd9ASypIA1s?si=045rmKlrMmO3GpiY)
