@@ -26,3 +26,6 @@ IT-доклады или видео, которые мне понравилис�
 # Team Lead
 - [Главное, что должен уметь тимлид, — это писать код](https://youtu.be/Qd9ASypIA1s?si=045rmKlrMmO3GpiY)
 - [Я тимлид. Кому я нужен?](https://www.youtube.com/watch?v=O0ZuF404eUY)
+
+# Design
+- [OpenAPI и Swagger Editor - своё описание REST API с нуля](https://www.youtube.com/watch?v=hPzorok-gI4)
