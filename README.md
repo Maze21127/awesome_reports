@@ -31,5 +31,10 @@ IT-доклады или видео, которые мне понравилис�
 ## Code Review
 - [Код-ревью с уважением](https://www.youtube.com/watch?v=7HwtjZ3t0H8)
 
+# DevOps
+## Metrics
+- [Метрики бэкенда, мониторинг и алертинг](https://www.youtube.com/watch?v=MJuIpcN7eWI)
+- [Мониторинг и Логи ПРОДАКШЕН уровня — Grafana + Loki + Prometheus + Promtail](https://www.youtube.com/watch?v=2JIyHNskK-c)
+
 # Design
 - [OpenAPI и Swagger Editor - своё описание REST API с нуля](https://www.youtube.com/watch?v=hPzorok-gI4)
